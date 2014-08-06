@@ -1,4 +1,4 @@
-package unitTest.addressBook;
+package addressBook;
 
 import java.util.Comparator;
 import org.w3c.dom.Document;

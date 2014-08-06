@@ -1,4 +1,4 @@
-package unitTest.addressBook;
+package addressBook;
 
 import org.w3c.dom.*;
 

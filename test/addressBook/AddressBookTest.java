@@ -1,4 +1,5 @@
-package unitTest.addressBook;
+package addressBook;
+
 
 import static org.junit.Assert.*;
 
@@ -18,6 +19,12 @@ import javax.xml.transform.TransformerFactoryConfigurationError;
 import org.junit.Before;
 import org.junit.Test;
 import org.xml.sax.SAXException;
+
+import addressBook.AddressBook;
+import addressBook.Contact;
+import addressBook.PhoneNumber;
+import addressBook.PostalAddress;
+import addressBook.SearchFilters;
 
 public class AddressBookTest {
 	AddressBook addressBook;

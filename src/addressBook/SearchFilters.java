@@ -1,4 +1,4 @@
-package unitTest.addressBook;
+package addressBook;
 
 /**
  * Exposes several predefined classes which implement {@link ISearchFilter} to

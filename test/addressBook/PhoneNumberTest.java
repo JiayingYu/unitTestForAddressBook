@@ -1,4 +1,4 @@
-package unitTest.addressBook;
+package addressBook;
 
 import static org.junit.Assert.*;
 

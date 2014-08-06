@@ -1,4 +1,4 @@
-package unitTest.addressBook;
+package addressBook;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

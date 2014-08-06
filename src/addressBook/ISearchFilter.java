@@ -1,4 +1,4 @@
-package unitTest.addressBook;
+package addressBook;
 
 /**
  * An extensibility point for providing custom search logic when searching for

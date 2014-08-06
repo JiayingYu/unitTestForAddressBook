@@ -1,4 +1,5 @@
-package unitTest.addressBook;
+package addressBook;
+
 
 import static org.junit.Assert.assertEquals;
 
@@ -12,6 +13,11 @@ import org.junit.Before;
 import org.junit.Test;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
+
+import addressBook.Contact;
+import addressBook.ContactName;
+import addressBook.PhoneNumber;
+import addressBook.PostalAddress;
 
 public class ContactTest {
 	private Contact contact;
